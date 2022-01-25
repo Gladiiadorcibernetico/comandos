@@ -24,7 +24,6 @@ Fundamentos de programacion
 
 - [X] tarea 
 
-~~~
- html 
+~~~html 
 <h>Hola Clase</h1> 
 ~~~
